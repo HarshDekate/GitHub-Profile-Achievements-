@@ -5,13 +5,9 @@
 <br>
 
 <div align="center">
-  <picture>
-  <!-- TODO I couldn't figure out how to properly add local links in place of these images. These should be fixed later. - @seanpm2001 !-->
-    <source media="(prefers-color-scheme: light)" srcset="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2023-01-10-achievements-on-github-mobile%2F&psig=AOvVaw0LWxt1xgyVAuLyj-Y3JeGp&ust=1696447118822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODUnJHM2oEDFQAAAAAdAAAAABAE">
-    <img src="[https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2023-01-10-achievements-on-github-mobile%2F&psig=AOvVaw0LWxt1xgyVAuLyj-Y3JeGp&ust=1696447118822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODUnJHM2oEDFQAAAAAdAAAAABAE)">
-  </picture><br>
-  
+  <img src="[URL_TO_YOUR_IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2023-01-10-achievements-on-github-mobile%2F&psig=AOvVaw0LWxt1xgyVAuLyj-Y3JeGp&ust=1696447118822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODUnJHM2oEDFQAAAAAdAAAAABAE)" alt="Image Description">
 </div>
+
 
 <br>
 
