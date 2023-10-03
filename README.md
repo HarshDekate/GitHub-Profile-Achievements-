@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="[URL_TO_YOUR_IMAGE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2023-01-10-achievements-on-github-mobile%2F&psig=AOvVaw0LWxt1xgyVAuLyj-Y3JeGp&ust=1696447118822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODUnJHM2oEDFQAAAAAdAAAAABAE)" alt="Image Description">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.blog%2Fchangelog%2F2023-01-10-achievements-on-github-mobile%2F&psig=AOvVaw0LWxt1xgyVAuLyj-Y3JeGp&ust=1696447118822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODUnJHM2oEDFQAAAAAdAAAAABAE" alt="Image Description">
 </div>
 
 
